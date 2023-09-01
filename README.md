@@ -4,6 +4,6 @@ A simple and responsive political email template created using HTML and CSS feau
 
 -John Colwell
 
-
-
-![email image](https://github.com/JawnMayer/Political-Email-Template/blob/main/Bidenemail.jpg?raw=true)
+<p align="center">
+<img src="https://github.com/JawnMayer/Political-Email-Template/blob/main/Bidenemail.jpg?raw=true" alt="biden email template" width="500"/>
+</p>
